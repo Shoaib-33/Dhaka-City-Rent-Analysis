@@ -1,4 +1,7 @@
 # Dhaka-City-Rent-Analysis
+## Problem Statement
+The main motive of this project is to have a indepth analysis of houserent of the entire Dhaka City so that it is possible to get an insight knowledge of it.
+The scrapping was done from the website of a very renowned organization named "Bproperty" which is https://www.bproperty.com/.The scrapped was was used for providing an indepth visual analysis. 
 ## Build from Sources and run the selenium scrapper
 1.Clone the repo
   ```bash
