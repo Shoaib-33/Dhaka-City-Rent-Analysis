@@ -34,6 +34,8 @@ The scrapping was done from the website of a very renowned organization named "B
 - 2000-above sqft
 
 #### 6.Last part is comparison of average rent range of Dhaka with Chittagong and Sylhet.
+You can visit the public dashboard [here](//public.tableau.com/app/profile/shoaib.shahriar/viz/DhakaCityHouseRentIndepthAnalysis/DhakaVsChittagong)
+
 ## All Findings and Observations are available [here](//public.tableau.com/app/profile/shoaib.shahriar/viz/DhakaCityHouseRentIndepthAnalysis/DhakaVsChittagong)
 ## The Jupyter notebook version(ipynb) version is available[here](https://github.com/Shoaib-33/Dhaka-City-Rent-Analysis/blob/main/Dhaka_city_RentAnalysis.ipynb)
 ## Project Overview:
@@ -44,31 +46,39 @@ capability,space requirements and other aspects. For this the project is divided
 
 
 ## Build from Sources and run the selenium scrapper
-1.Clone the repo
+  1.Clone the repo
   ```bash
    git clone https://github.com/Shoaib-33/Dhaka-City-Rent-Analysis.git
    ```
-2.Intialize and active virtual environment
+  2.Intialize and active virtual environment
    ```bash
    virtual --no-site-packages venv
    source venv/bin/activate
    ```
-3.Install dependencies
+  3.Install dependencies
    ```bash
    pip install -r requirements.txt
    ```
-4.Download Crome Webdriver from https://chromedriver.chromium.org/downloads
+  4.Download Crome Webdriver from https://chromedriver.chromium.org/downloads
 
-5.Run the scraper (Change the Webdriver Path as per the path of it in your system)
+  5.Run the scraper (Change the Webdriver Path as per the path of it in your system)
   ```bash
-python Dhaka-City-Rent-Analysis/Dhaka_City_HouseRent_Analysis.py
+  python Dhaka-City-Rent-Analysis/Dhaka_City_HouseRent_Analysis.py
   ```
-6.File named "Rent_Analysis.csv" contains the entire dataset of the for the project.
+  6.File named "Rent_Analysis.csv" contains the entire dataset of the for the project.
 
-Alternatively,check out the scrapped data from [here](https://github.com/Shoaib-33/Dhaka-City-Rent-Analysis/blob/main/Rent_Analysis.csv)
+  Alternatively,check out the scrapped data from [here](https://github.com/Shoaib-33/Dhaka-City-Rent-Analysis/blob/main/Rent_Analysis.csv)
 
-The ipynb version of the scrapping code is available [here](https://github.com/Shoaib-33/Dhaka-City-Rent-Analysis/blob/main/Dhaka_city_RentAnalysis.ipynb)
+  The ipynb version of the scrapping code is available [here](https://github.com/Shoaib-33/Dhaka-City-Rent-Analysis/blob/main/Dhaka_city_RentAnalysis.ipynb)
 
+## Dashboard Sequences Order
+  - Analytics
+  - Analytics-2
+  - Affordibility
+  - Top Comparison
+  - Range Comparison
+  - Places(1000-2000-above)
+  - Dhaka vs Chittagong
 ## Analytics  
 Tableau Public View: 
 
