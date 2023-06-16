@@ -4,14 +4,14 @@
 The main motive of this project is to have a indepth analysis of houserent of the entire Dhaka City so that it is possible to get an insight knowledge of it.
 The scrapping was done from the website of a very renowned organization named "Bproperty" which is [Bproperty](https://www.bproperty.com/). The scrapped was was used for providing an indepth visual analysis.Later we ultilized the scrapped data to visualize the following demographics and comparison and correlations:
 
-#### 1.Analysis Part:
+#### 1. Analysis Part:
 
 - Rent Analysis of Entire Dhaka city.
 - Comparative Analysis of House Area(sqft)  in various places of Dhaka.
 - Houserent vs Sqft comparison in Dhaka City.
 - Detailed Analysis of Area(sqft) of Houses in various parts of Dhaka.
 
-#### 2.Affordibility part:
+#### 2. Affordibility part:
 
 - Affordable places for smaller families to live.
 - Affordable places for larger families to live.
@@ -19,21 +19,21 @@ The scrapping was done from the website of a very renowned organization named "B
 
 
 
-#### 3.Top comparsion part consists of comparison of various aspects of Dhaka city
+#### 3. Top comparsion part consists of comparison of various aspects of Dhaka city
 
 
 
 
-#### 4.Rent Range comparsion part consists of comparsion of rent in various ranges:
+#### 4. Rent Range comparsion part consists of comparsion of rent in various ranges:
 - Tk 15000-30000
 - Tk 30000-60000
 - Tk 60000-Above
 
-#### 5.Area(sqft) Range comparsion part consists of comparsion of area(sqft) in various ranges:
+#### 5. Area(sqft) Range comparsion part consists of comparsion of area(sqft) in various ranges:
 - 1000-2000 sqft
 - 2000-above sqft
 
-#### 6.Last part is comparison of average rent range of Dhaka with Chittagong and Sylhet.
+#### 6. Last part is comparison of average rent range of Dhaka with Chittagong and Sylhet.
 You can visit the public dashboard [here](//public.tableau.com/app/profile/shoaib.shahriar/viz/DhakaCityHouseRentIndepthAnalysis/DhakaVsChittagong)
 
 ## All Findings and Observations are available [here](//public.tableau.com/app/profile/shoaib.shahriar/viz/DhakaCityHouseRentIndepthAnalysis/DhakaVsChittagong)
