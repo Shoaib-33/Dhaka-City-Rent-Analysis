@@ -31,10 +31,10 @@ The scrapping was done from the website of a very renowned organization named "B
 
 #### 5.Area(sqft) Range comparsion part consists of comparsion of area(sqft) in various ranges:
 - 1000-2000 sqft
-- 20000- above sqft
+- 2000-above sqft
 
 #### 6.Last part is comparison of average rent range of Dhaka with Chittagong and Sylhet.
-
+## All Findings and Observations are available [here](//public.tableau.com/app/profile/shoaib.shahriar/viz/DhakaCityHouseRentIndepthAnalysis/DhakaVsChittagong)
 
 ## Project Overview:
 
