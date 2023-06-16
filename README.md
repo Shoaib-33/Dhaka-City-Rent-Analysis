@@ -1,33 +1,39 @@
 # Dhaka-City-Rent-Analysis
+
 ## Problem Statement
 The main motive of this project is to have a indepth analysis of houserent of the entire Dhaka City so that it is possible to get an insight knowledge of it.
 The scrapping was done from the website of a very renowned organization named "Bproperty" which is [Bproperty](https://www.bproperty.com/). The scrapped was was used for providing an indepth visual analysis.Later we ultilized the scrapped data to visualize the following demographics and comparison and correlations:
 
-#### Analysis Part:
+#### 1.Analysis Part:
 
-1.Rent Analysis of Entire Dhaka city.
-2.Comparative Analysis of House Area(sqft)  in various places of Dhaka.
-3.Houserent vs Sqft comparison in Dhaka City.
-4.Detailed Analysis of Area(sqft) of Houses in various parts of Dhaka.
+- Rent Analysis of Entire Dhaka city.
+- Comparative Analysis of House Area(sqft)  in various places of Dhaka.
+- Houserent vs Sqft comparison in Dhaka City.
+- Detailed Analysis of Area(sqft) of Houses in various parts of Dhaka.
 
-#### Affordibility part:
+#### 2.Affordibility part:
 
-1.Affordable places for smaller families to live.
-2.Affordable places for larger families to live.
-3.Top 3 cheap and expensive place to live.
+- Affordable places for smaller families to live.
+- Affordable places for larger families to live.
+- Top 3 cheap and expensive place to live.
 
-#### Top comparsion part consists of comparison of various aspects of Dhaka city 
 
-#### Rent Range comparsion part consists of comparsion of rent in various ranges:
-1.Tk 15000-30000
-2.Tk 30000-60000
-3.Tk 60000-Above
 
-#### Area(sqft) Range comparsion part consists of comparsion of area(sqft) in various ranges:
-1.1000-2000 sqft
-2.20000- above sqft
+#### 3.Top comparsion part consists of comparison of various aspects of Dhaka city
 
-### Last part is comparison of average rent range of Dhaka with Chittagong and Sylhet.
+
+
+
+#### 4.Rent Range comparsion part consists of comparsion of rent in various ranges:
+- Tk 15000-30000
+- Tk 30000-60000
+- Tk 60000-Above
+
+#### 5.Area(sqft) Range comparsion part consists of comparsion of area(sqft) in various ranges:
+- 1000-2000 sqft
+- 20000- above sqft
+
+### 6.Last part is comparison of average rent range of Dhaka with Chittagong and Sylhet.
 
 
 ## Project Overview:
