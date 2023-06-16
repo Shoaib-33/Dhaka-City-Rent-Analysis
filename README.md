@@ -35,7 +35,7 @@ The scrapping was done from the website of a very renowned organization named "B
 
 #### 6.Last part is comparison of average rent range of Dhaka with Chittagong and Sylhet.
 ## All Findings and Observations are available [here](//public.tableau.com/app/profile/shoaib.shahriar/viz/DhakaCityHouseRentIndepthAnalysis/DhakaVsChittagong)
-
+## The Jupyter notebook version(ipynb) version is available[here](https://github.com/Shoaib-33/Dhaka-City-Rent-Analysis/blob/main/Dhaka_city_RentAnalysis.ipynb)
 ## Project Overview:
 
 The project mainly illustrates the comparison of various aspects of Dhaka city in terms of Rent and Area.The main intention of this project is to ensure every possible visualization which is required by an individual while searching for houses in Dhaka and also to get the entire overview of the living cost of mega town Dhaka.This project is build based on deep human thoughs which must come in mind while he is searching for a house in Dhaka according to his 
@@ -64,7 +64,10 @@ capability,space requirements and other aspects. For this the project is divided
 python Dhaka-City-Rent-Analysis/Dhaka_City_HouseRent_Analysis.py
   ```
 6.File named "Rent_Analysis.csv" contains the entire dataset of the for the project.
-Alternatively,check out the scrapped data from [here:](https://github.com/Shoaib-33/Dhaka-City-Rent-Analysis/blob/main/Rent_Analysis.csv)
+
+Alternatively,check out the scrapped data from [here](https://github.com/Shoaib-33/Dhaka-City-Rent-Analysis/blob/main/Rent_Analysis.csv)
+
+The ipynb version of the scrapping code is available [here](https://github.com/Shoaib-33/Dhaka-City-Rent-Analysis/blob/main/Dhaka_city_RentAnalysis.ipynb)
 
 ## Analytics  
 Tableau Public View: 
