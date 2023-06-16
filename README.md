@@ -30,7 +30,7 @@ Area(sqft) Range comparsion part consists of comparsion of area(sqft) in various
 Last part is comparison of average rent range of Dhaka with Chittagong and Sylhet.
 
 
-Project Overview:
+## Project Overview:
 
 The project mainly illustrates the comparison of various aspects of Dhaka city in terms of Rent and Area.The main intention of this project is to ensure every possible visualization which is required by an individual while searching for houses in Dhaka and also to get the entire overview of the living cost of mega town Dhaka.This project is build based on deep human thoughs which must come in mind while he is searching for a house in Dhaka according to his capability,space requirements and other aspects. For this the project is divided into some phases in sequence to have the clear analysis of the rent in Dhaka city.The First phase is analysis which demonstates a detailed analysis of Houserent,Area(sqft),Houserent vs Area and analysis of inside view of houses like bedrooms,bathrooms etc having a clear demonstation of which place have more or less in those aspects.The second phase is affordibility phase which starts after analysis so that an individual after making the total analysis can gather knowlegde and learning those knowledge he can choose areas as per his affordability and requirements.Later part is Top comparison which will help him to understand the top places of Dhaka in various perspects.Then most important phase is the range phase which will allow him to take the final verdict of staying in place of his affordable range and housing requirements.Lastly comparison part of Average Rent of Dhaka city with mega cities like Chittagong and Sylhet will help to understand the living cost of Dhaka in respect to those cities.
 
