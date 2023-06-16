@@ -33,7 +33,7 @@ The scrapping was done from the website of a very renowned organization named "B
 - 1000-2000 sqft
 - 20000- above sqft
 
-### 6.Last part is comparison of average rent range of Dhaka with Chittagong and Sylhet.
+#### 6.Last part is comparison of average rent range of Dhaka with Chittagong and Sylhet.
 
 
 ## Project Overview:
