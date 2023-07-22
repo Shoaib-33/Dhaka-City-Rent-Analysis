@@ -8,6 +8,8 @@ The scrapping was done from the website of a very renowned Houserenting and sell
 
 - Rent Analysis of Entire Dhaka city.
 - Comparative Analysis of House Area(sqft)  in various places of Dhaka.
+  ![Analysis-1](images/1.png)
+
 - Houserent vs Sqft comparison in Dhaka City.
 - Detailed Analysis of Area(sqft) of Houses in various parts of Dhaka.
 
