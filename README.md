@@ -28,10 +28,25 @@ The scrapping was done from the website of a very renowned Houserenting and sell
 - Affordable places for larger families to live.
 - Top 3 cheap and expensive place to live.
 
+   <table>
+  <tr>
+    <td>
+      <img src="images/3.png" alt="Image 1">
+    </td>
+  </tr>
+</table>
+
 
 
 #### 3. Top comparsion part consists of comparison of various aspects of Dhaka city
 
+   <table>
+  <tr>
+    <td>
+      <img src="images/4.png" alt="Image 1">
+    </td>
+  </tr>
+</table>
 
 
 
@@ -39,12 +54,37 @@ The scrapping was done from the website of a very renowned Houserenting and sell
 - Tk 15000-30000
 - Tk 30000-60000
 - Tk 60000-Above
+  
+<table>
+  <tr>
+    <td>
+      <img src="images/5.png" alt="Image 1">
+    </td>
+  </tr>
+</table>
 
 #### 5. Area(sqft) Range comparsion part consists of comparsion of area(sqft) in various ranges:
 - 1000-2000 sqft
 - 2000-above sqft
 
+<table>
+  <tr>
+    <td>
+      <img src="images/6.png" alt="Image 1">
+    </td>
+  </tr>
+</table>
+
+
 #### 6. Last part is comparison of average rent range of Dhaka with Chittagong and Sylhet.
+
+<table>
+  <tr>
+    <td>
+      <img src="images/7.png" alt="Image 1">
+    </td>
+  </tr>
+</table>
 You can visit the public dashboard [here](//public.tableau.com/app/profile/shoaib.shahriar/viz/DhakaCityHouseRentIndepthAnalysis/DhakaVsChittagong)
 
 ## All Findings and Observations are available [here](//public.tableau.com/app/profile/shoaib.shahriar/viz/DhakaCityHouseRentIndepthAnalysis/DhakaVsChittagong)
