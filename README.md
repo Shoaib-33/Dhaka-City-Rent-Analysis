@@ -103,5 +103,17 @@ capability,space requirements and other aspects. For this the project is divided
   - Dhaka vs Chittagong
 ## Analytics  
 Tableau Public View: 
-
 https://public.tableau.com/app/profile/shoaib.shahriar/viz/DhakaCityHouseRentIndepthAnalysis/DhakaVsChittagong
+
+## Project Insights
+
+Going through the project analysis we observed that
+- Average houserent is lower in Cantonment,Kachukhet,Mirpur,Mohammadpur.
+- Affordable places for small families is Khilkhet,Kochukhet,Mohakhali and Nikunja considering an average houserent.
+- Better place for Big families are Mohakhali DOHS,Banani DOHS,Baridhara,Gulshan
+- Cheapest place to live in Dhaka are Dakkhinkhan,Ibrahimpur,Kachukhet.
+- Most expensive and luxurious Living areas in Dhaka Baridhara,Gulshan,Banani.
+- The House rent range comparison satisfies the above statement in the range (15000 upto more than 60k)
+- The House sqft range comparison satisfies the above statement in the range (1500sqft upto more than 3k sqft)
+- The Median Rent of Dhaka is much more htan median rent of two mega cities (Chittagong and Sylhet)
+ 
