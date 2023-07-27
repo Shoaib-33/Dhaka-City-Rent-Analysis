@@ -95,7 +95,7 @@ capability,space requirements and other aspects. For this the project is divided
 
 ## Dashboard Sequences Order
   - Analytics
-  - Analytics-2
+  - Analytics-II
   - Affordibility
   - Top Comparison
   - Range Comparison
