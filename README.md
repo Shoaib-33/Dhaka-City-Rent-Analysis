@@ -58,8 +58,8 @@ The scrapping was done from the website of a very renowned Houserenting and sell
 
 You can visit the public dashboard [here](//public.tableau.com/app/profile/shoaib.shahriar/viz/DhakaCityHouseRentIndepthAnalysis/DhakaVsChittagong)
 
-## All Findings and Observations are available [here](//public.tableau.com/app/profile/shoaib.shahriar/viz/DhakaCityHouseRentIndepthAnalysis/DhakaVsChittagong)
-## The Jupyter notebook version(ipynb) version is available[here](https://github.com/Shoaib-33/Dhaka-City-Rent-Analysis/blob/main/Dhaka_city_RentAnalysis.ipynb)
+#### All Findings and Observations are available [here](//public.tableau.com/app/profile/shoaib.shahriar/viz/DhakaCityHouseRentIndepthAnalysis/DhakaVsChittagong)
+#### The Jupyter notebook version(ipynb) version is available[here](https://github.com/Shoaib-33/Dhaka-City-Rent-Analysis/blob/main/Dhaka_city_RentAnalysis.ipynb)
 ## Project Overview:
 
 The project mainly illustrates the comparison of various aspects of Dhaka city in terms of Rent and Area.The main intention of this project is to ensure every possible visualization which is required by an individual while searching for houses in Dhaka and also to get the entire overview of the living cost of mega town Dhaka.This project is build based on deep human thoughs which must come in mind while he is searching for a house in Dhaka according to his 
