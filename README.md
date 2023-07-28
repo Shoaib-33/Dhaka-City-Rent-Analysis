@@ -5,7 +5,7 @@ The main motive of this project is to have a indepth analysis of houserent of th
  The scrapping was done from the website of a very renowned Houserenting and selling organization named "Bproperty" which is [Bproperty](https://www.bproperty.com/). The scrapped data was used for providing an indepth visual analysis.Later we ultilized the scrapped data to visualize the following demographics and comparison and correlations:
 
 
- ####       1. Analysis Part:
+ #### 1. Analysis Part:
 
 - Rent Analysis of Entire Dhaka city.
 - Comparative Analysis of House Area(sqft)  in various places of Dhaka.
