@@ -86,7 +86,7 @@ capability,space requirements and other aspects. For this the project is divided
 
   5.Run the scraper (Change the Webdriver Path as per the path of it in your system)
   ```bash
-  python Dhaka-City-Rent-Analysis/Dhaka_City_HouseRent_Analysis.py
+  python Dhaka-City-Rent-Analysis/Dselenium_scraper.py
   ```
   6.File named "Rent_Analysis.csv" contains the entire dataset of the for the project.
 
